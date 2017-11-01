@@ -10,3 +10,6 @@ Visual Studio Community 2017
 
 [10/14/17]
 Just realized that classes wont really work so time to either save data on a text file, or work on integrating a database to store information sooner. Yay me!
+
+[10/31/17]
+Need to remind myself to continue this. My Azure Educational ver. didn't work, so I couldn't continue, and had Cal. II test coming up at the time.
